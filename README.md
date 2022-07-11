@@ -5,4 +5,4 @@ https://impacttexasdrivers.dps.texas.gov/ITAD/ or https://impacttexasdrivers.dps
 
 Works on both websites
 
-Simply open up inspect element on your choice of broweser and type in: document.querySelector('video').playbackRate = 3.0; 
+Simply open up inspect element on your choice of broweser and type in: ` document.querySelector('video').playbackRate = 3.0; `
