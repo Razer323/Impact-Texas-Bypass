@@ -6,3 +6,6 @@ https://impacttexasdrivers.dps.texas.gov/ITAD/ or https://impacttexasdrivers.dps
 Works on both websites
 
 Simply open up inspect element on your choice of broweser and type in: ` document.querySelector('video').playbackRate = 16.0; `
+
+
+https://quizlet.com/360050279/impact-texas-young-drivers-flash-cards/ provides all answers to questions
